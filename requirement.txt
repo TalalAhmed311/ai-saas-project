@@ -8,4 +8,5 @@ langchain-openai
 qdrant-client
 pypdf
 python-dotenv
+httpx
 langchain-qdrant
